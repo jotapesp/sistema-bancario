@@ -17,10 +17,9 @@ Para rodar o programa, abra o terminal e use o comando
 * `saques.json` - armazena o histórico de saques da conta.
 <br>
 A aplicação em si apresenta 3 funções básicas:
-<br>
-  * **Realizar saque** - permite ao o usuário realizar saques, atualizando o valor do saldo posteriormente.
-  * **Realizar depósito** - permite ao usuário realizar depósitos, atualizando então o saldo da conta.
-  * **Visualização de extrato** - permite ao usuário visualizar todas as operações de saque e depósito ao longo dos últimos 30 dias.
+ - **Realizar saque** - permite ao o usuário realizar saques, atualizando o valor do saldo posteriormente.
+ - **Realizar depósito** - permite ao usuário realizar depósitos, atualizando então o saldo da conta.
+ - **Visualização de extrato** - permite ao usuário visualizar todas as operações de saque e depósito ao longo dos últimos 30 dias.
 
 ### Screenshots
 
