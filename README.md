@@ -14,7 +14,7 @@ Para rodar o programa, abra o terminal e use o comando
 `python app.py` . Se é a primeira vez rodando o programa, ele irá criar 3 arquivos na pasta raiz:
 * `saldos.json` - armazena o histórico de saldo da conta;
 * `depositos.json` - armazena o histórico de depósitos da conta;
-* `saques.json` - armazena o histórico de saques da conta.
+* `saques.json` - armazena o histórico de saques da conta. <br />
 A aplicação em si apresenta 3 funções básicas:
 * **Realizar saque** - permite ao o usuário realizar saques, atualizando o valor do saldo posteriormente.
 * **Realizar depósito** - permite ao usuário realizar depósitos, atualizando então o saldo da conta.
