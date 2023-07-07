@@ -28,9 +28,3 @@ A aplicação em si apresenta 3 funções básicas:
 
 ![MENU](https://i.imgur.com/Rq14OwG.png)
 ![EXTRATO](https://i.imgur.com/ceMS04o.png)
-
-### Requirements
-
-As dependências estão listadas no arquivo `requirements.txt` o qual o link é encontrado abaixo.
-
-* [requirements.txt](https://github.com/jotapesp/)
